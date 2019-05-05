@@ -568,3 +568,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.05-21.31.48:161][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2019.05.05-21.32.24:715][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.05.05-21.32.35:691][400]LogSlate: Window 'New Level' being destroyed
+[2019.05.05-21.37.34:333][933]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
